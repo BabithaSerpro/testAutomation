@@ -1,0 +1,50 @@
+09:53:12.218 [main] INFO  stepDefinitions.LoginDefinition - Browser closed successfully
+09:53:17.715 [main] INFO  stepDefinitions.LoginDefinition - Initialized driver
+09:53:32.879 [main] INFO  stepDefinitions.LoginDefinition - Landed on FreePay App
+09:53:35.839 [main] INFO  stepDefinitions.LoginDefinition - User clicked on login url
+09:53:36.249 [main] INFO  stepDefinitions.LoginDefinition - User enters Username
+09:53:37.900 [main] INFO  stepDefinitions.LoginDefinition - User enters password
+09:53:38.281 [main] INFO  stepDefinitions.LoginDefinition - Login button found and clicked
+09:53:42.400 [main] INFO  stepDefinitions.LoginDefinition - Browser closed successfully
+10:51:36.042 [main] INFO  stepDefinitions.LoginDefinition - Initialized driver
+10:51:51.104 [main] INFO  stepDefinitions.LoginDefinition - Landed on FreePay App
+10:51:52.812 [main] INFO  stepDefinitions.LoginDefinition - User clicked on login url
+10:51:54.415 [main] INFO  stepDefinitions.LoginDefinition - User enters Username
+10:51:54.912 [main] INFO  stepDefinitions.LoginDefinition - User enters password
+10:51:55.806 [main] INFO  stepDefinitions.LoginDefinition - Login button found and clicked
+10:52:00.478 [main] INFO  stepDefinitions.LoginDefinition - Browser closed successfully
+10:52:05.410 [main] INFO  stepDefinitions.LoginDefinition - Initialized driver
+10:52:32.451 [main] INFO  stepDefinitions.LoginDefinition - Landed on FreePay App
+10:52:34.186 [main] INFO  stepDefinitions.LoginDefinition - User clicked on login url
+10:52:36.277 [main] INFO  stepDefinitions.LoginDefinition - User enters Username
+10:52:36.856 [main] INFO  stepDefinitions.LoginDefinition - User enters password
+10:52:37.463 [main] INFO  stepDefinitions.LoginDefinition - Login button found and clicked
+10:52:40.365 [main] INFO  stepDefinitions.LoginDefinition - Browser closed successfully
+14:15:17.507 [main] INFO  stepDefinitions.LoginDefinition - Initialized driver
+14:15:40.457 [main] INFO  stepDefinitions.LoginDefinition - Landed on FreePay App
+14:15:44.670 [main] INFO  stepDefinitions.LoginDefinition - User clicked on login url
+14:15:45.852 [main] INFO  stepDefinitions.LoginDefinition - User enters Username
+14:15:46.854 [main] INFO  stepDefinitions.LoginDefinition - User enters password
+14:15:46.912 [main] INFO  stepDefinitions.LoginDefinition - Login button found and clicked
+14:15:50.686 [main] INFO  stepDefinitions.LoginDefinition - Browser closed successfully
+14:15:55.186 [main] INFO  stepDefinitions.LoginDefinition - Initialized driver
+14:16:10.844 [main] INFO  stepDefinitions.LoginDefinition - Landed on FreePay App
+14:16:13.174 [main] INFO  stepDefinitions.LoginDefinition - User clicked on login url
+14:16:13.775 [main] INFO  stepDefinitions.LoginDefinition - User enters Username
+14:16:14.150 [main] INFO  stepDefinitions.LoginDefinition - User enters password
+14:16:14.242 [main] INFO  stepDefinitions.LoginDefinition - Login button found and clicked
+14:16:17.846 [main] INFO  stepDefinitions.LoginDefinition - Browser closed successfully
+17:06:12.498 [main] INFO  stepDefinitions.LoginDefinition - Initialized driver
+17:08:08.253 [main] INFO  stepDefinitions.LoginDefinition - Landed on FreePay App
+17:08:48.218 [main] INFO  stepDefinitions.LoginDefinition - User clicked on login url
+17:08:48.450 [main] INFO  stepDefinitions.LoginDefinition - User enters Username
+17:08:48.578 [main] INFO  stepDefinitions.LoginDefinition - User enters password
+17:08:48.634 [main] INFO  stepDefinitions.LoginDefinition - Login button found and clicked
+17:08:50.923 [main] INFO  stepDefinitions.LoginDefinition - Browser closed successfully
+17:08:54.687 [main] INFO  stepDefinitions.LoginDefinition - Initialized driver
+17:09:30.533 [main] INFO  stepDefinitions.LoginDefinition - Landed on FreePay App
+17:09:36.951 [main] INFO  stepDefinitions.LoginDefinition - User clicked on login url
+17:09:37.114 [main] INFO  stepDefinitions.LoginDefinition - User enters Username
+17:09:37.235 [main] INFO  stepDefinitions.LoginDefinition - User enters password
+17:09:37.283 [main] INFO  stepDefinitions.LoginDefinition - Login button found and clicked
+17:09:39.539 [main] INFO  stepDefinitions.LoginDefinition - Browser closed successfully
